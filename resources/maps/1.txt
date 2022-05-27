@@ -1,0 +1,9 @@
+# wall wall.png
+_ floor floor.png
+s skeleton skeleton.png
+
+# # # # #
+# _ _ _ #
+# _ s _ # # #
+# _ _ _ _ _ #
+# # # # # # #
